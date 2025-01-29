@@ -15,7 +15,7 @@ I'm a **biologist** with a strong passion for **biological data analysis** and *
 - 📊 Experience in **data analysis, survival analysis, and biomarker discovery**.
 - 🔍 Interested in **omics data, machine learning, and healthcare research**.
 - 🏡 Living in **Ireland** to improve my English and grow professionally.
-- 🤓 Fun fact: **I used to hate learning English, and now I live in Ireland!**
+- 🤓 Fun fact: **My nickname, Marjoram, comes from an aromatic plant I worked with in my last job. Many people, especially from Spain, mistakenly think that it comes from my full Spanish name**
 
 ---
 
